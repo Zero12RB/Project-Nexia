@@ -62,4 +62,4 @@ Xây dựng với [Rust](https://www.rust-lang.org/), [egui / eframe](https://gi
 Nexia Launcher là dự án cộng đồng, **không liên kết với Mojang Studios, Microsoft hay Ely.by**. Minecraft là thương hiệu của Mojang Studios.
 
 ## Giấy phép
-[MIT](https://github.com/Zero12RB/Project-Nexia/tree/main?tab=MIT-1-ov-file)
+[Link](https://github.com/Zero12RB/Project-Nexia/tree/main?tab=MIT-1-ov-file)
