@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo" alt="Nexia Launcher" width="120">
+<img src="logo.png" alt="Nexia Launcher" width="120">
 
 # Nexia Launcher
 
